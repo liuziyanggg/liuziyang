@@ -4,7 +4,21 @@
 
 打算把自己学的一些些东西都重新梳理一下，整理成文档记录下来。主要会包括一些开源插件的使用，工程化的一些东西，自己的总结等等
 
+
+#### nodejs API 学习
+
+**[events模块](https://github.com/mt51/mt51/issues/2)**
+
+#### 深入理解 Javascript
+
+* [ ] 执行上下文
+* [ ] 变量对象
+* [ ] 作用域
+* [ ] this
+* [ ] 闭包
+* [ ] 原型
+
 #### 开源插件的使用
 
-* [react-dnd的使用](https://github.com/mt51/mt51/issues/1)
+**[react-dnd的使用](https://github.com/mt51/mt51/issues/1)**
 
