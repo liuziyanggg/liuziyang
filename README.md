@@ -8,11 +8,12 @@
 #### nodejs API 学习
 
 **[events模块](https://github.com/mt51/mt51/issues/2)**
+**[path模块](https://github.com/mt51/mt51/issues/4)**
 
 #### 深入理解 Javascript
 
 * [X] [执行上下文](https://github.com/mt51/mt51/issues/3)
-* [ ] 变量对象
+* [X] [变量对象](https://github.com/mt51/mt51/issues/3)
 * [ ] 作用域
 * [ ] 总结：执行上下文，变量对象作用域
 * [ ] this
