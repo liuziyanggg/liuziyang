@@ -13,8 +13,8 @@
 #### 深入理解 Javascript
 
 * [X] [执行上下文](https://github.com/mt51/mt51/issues/3)
-* [X] [变量对象](https://github.com/mt51/mt51/issues/3)
-* [ ] 作用域
+* [X] [变量对象](https://github.com/mt51/mt51/issues/5)
+* [X] [作用域](https://github.com/mt51/mt51/issues/6)
 * [ ] 总结：执行上下文，变量对象作用域
 * [ ] this
 * [ ] 闭包
