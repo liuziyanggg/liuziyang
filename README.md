@@ -9,6 +9,7 @@
 
 **[events模块](https://github.com/mt51/mt51/issues/2)**
 **[path模块](https://github.com/mt51/mt51/issues/4)**
+**[fs模块](https://github.com/mt51/mt51/issues/7)**
 
 #### 深入理解 Javascript
 
