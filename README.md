@@ -5,25 +5,25 @@
 打算把自己学的一些些东西都重新梳理一下，整理成文档记录下来。主要会包括一些开源插件的使用，工程化的一些东西，自己的总结等等
 
 
-#### nodejs API 学习
-
-**[events模块](https://github.com/mt51/mt51/issues/2)**
-**[path模块](https://github.com/mt51/mt51/issues/4)**
-**[fs模块](https://github.com/mt51/mt51/issues/7)**
-**[stream模块](https://github.com/mt51/mt51/issues/9)**
-
-
 #### 深入理解 Javascript
 
 * [X] [执行上下文](https://github.com/mt51/mt51/issues/3)
 * [X] [变量对象](https://github.com/mt51/mt51/issues/5)
 * [X] [作用域](https://github.com/mt51/mt51/issues/6)
 * [X] [总结：执行上下文，变量对象作用域](https://github.com/mt51/mt51/issues/8)
-* [ ] this
+* [X] [this关键字](https://github.com/mt51/mt51/issues/10)
 * [ ] 闭包
 * [ ] 原型
+* [ ] 自定义`call()`和`apply()`
 
 #### 开源插件的使用
 
-**[react-dnd的使用](https://github.com/mt51/mt51/issues/1)**
+[react-dnd的使用](https://github.com/mt51/mt51/issues/1)
+
+#### nodejs API 学习
+
+[1、events模块](https://github.com/mt51/mt51/issues/2)
+[2、path模块](https://github.com/mt51/mt51/issues/4)
+[3、fs模块](https://github.com/mt51/mt51/issues/7)
+[4、stream模块](https://github.com/mt51/mt51/issues/9)
 
