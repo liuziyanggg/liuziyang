@@ -27,3 +27,9 @@
 [3、fs模块](https://github.com/mt51/mt51/issues/7)
 [4、stream模块](https://github.com/mt51/mt51/issues/9)
 
+5、http模块
+  * [http模块 -- 客户端](https://github.com/mt51/mt51/issues/11)
+  * [http模块 -- 服务器](https://github.com/mt51/mt51/issues/11)
+  * [http模块 -- http.ServerSponse类](https://github.com/mt51/mt51/issues/11)
+  * [http模块 -- http.IncomingMessage类](https://github.com/mt51/mt51/issues/11)
+
