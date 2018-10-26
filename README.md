@@ -12,7 +12,7 @@
 * [X] [作用域](https://github.com/mt51/mt51/issues/6)
 * [X] [总结：执行上下文，变量对象作用域](https://github.com/mt51/mt51/issues/8)
 * [X] [this关键字](https://github.com/mt51/mt51/issues/10)
-* [ ] 闭包
+* [X] [闭包](https://github.com/mt51/mt51/issues/15)
 * [ ] 原型
 * [ ] 自定义`call()`和`apply()`
 
@@ -29,7 +29,7 @@
 
 5、http模块
   * [http模块 -- 客户端](https://github.com/mt51/mt51/issues/11)
-  * [http模块 -- 服务器](https://github.com/mt51/mt51/issues/11)
-  * [http模块 -- http.ServerSponse类](https://github.com/mt51/mt51/issues/11)
-  * [http模块 -- http.IncomingMessage类](https://github.com/mt51/mt51/issues/11)
+  * [http模块 -- 服务器](https://github.com/mt51/mt51/issues/12)
+  * [http模块 -- http.ServerSponse类](https://github.com/mt51/mt51/issues/13)
+  * [http模块 -- http.IncomingMessage类](https://github.com/mt51/mt51/issues/14)
 
