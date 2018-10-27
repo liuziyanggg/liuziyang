@@ -14,7 +14,8 @@
 * [X] [this关键字](https://github.com/mt51/mt51/issues/10)
 * [X] [闭包](https://github.com/mt51/mt51/issues/15)
 * [ ] 原型
-* [ ] 自定义`call()`和`apply()`
+* [X] [模拟实现`call()`和`apply()`](https://github.com/mt51/mt51/issues/17)
+* [X] [模拟实现`bind()`](https://github.com/mt51/mt51/issues/18)
 
 #### 开源插件的使用
 
