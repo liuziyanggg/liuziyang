@@ -13,7 +13,7 @@
 * [X] [总结：执行上下文，变量对象作用域](https://github.com/mt51/mt51/issues/8)
 * [X] [this关键字](https://github.com/mt51/mt51/issues/10)
 * [X] [闭包](https://github.com/mt51/mt51/issues/15)
-* [ ] 原型
+* [X] [原型](https://github.com/mt51/mt51/issues/19)
 * [X] [模拟实现`call()`和`apply()`](https://github.com/mt51/mt51/issues/17)
 * [X] [模拟实现`bind()`](https://github.com/mt51/mt51/issues/18)
 
@@ -34,3 +34,4 @@
   * [http模块 -- http.ServerSponse类](https://github.com/mt51/mt51/issues/13)
   * [http模块 -- http.IncomingMessage类](https://github.com/mt51/mt51/issues/14)
 
+[6、url模块](https://github.com/mt51/mt51/issues/16)
